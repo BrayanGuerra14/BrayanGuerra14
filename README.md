@@ -7,14 +7,14 @@
 
 I'm **Brayan Guerra**.
 
-### 🔬 Research lines
+### Research lines
 
 - 🧠 **Computational Neuroscience**
 - 🤝 **Social Dynamics**
 - 🌐 **Complex Systems**
 - 🪐 **Dynamical Systems & Differential Equations**
 
-### 🛠️ Tech Stack
+### Tech Stack
 
 <p align="left">
   <img src="https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white" alt="MATLAB" />
@@ -28,7 +28,7 @@ I'm **Brayan Guerra**.
 </p>
 
 
-### 🐼 About Me
+### About Me
 
 - Mathematician, Faculty of Exact and Natural Sciences, UNAL, Manizales.
   - Thesis: **Métodos para el Análisis de Sincronización de Sistemas Dinámicos a Tiempo Continuo no Suaves**
@@ -37,11 +37,11 @@ I'm **Brayan Guerra**.
 
 
 
-### 🌟 Some of my projects
+### Some of my projects
 
 - [**Global Optimization Using Tunneling Techniques**](https://github.com/BrayanGuerra14/TunnelingGlobalOptimization)
 
-### 🎓 Teaching Experience
+### Teaching Experience
 
 **Teaching Assistant, Facultad de Ciencias, UNAM**
 
